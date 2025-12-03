@@ -299,4 +299,4 @@ $$ A(BC) =
 \end{pmatrix}
 $$
 
-# RESPUESTA: SÍ DAN LO MISMO
+# Respuesta - Si dan lo mismo.
